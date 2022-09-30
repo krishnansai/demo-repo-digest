@@ -3,8 +3,8 @@
 generate daily digests of repository activity
 
 ### Synopsis
-
-## Run steps
+------------------------------------------------------------------
+## Run steps   ----> change your mail and github repo and token
 
 sudo apt-get install git
 
@@ -14,7 +14,7 @@ cd demo-repo-digest
 
 ./build.sh
 
-
+--------------------------------------------------------------------------------------------------
 
 Generate an HTML digest of repository activity (default stylesheet
 included). The digest includes two sections: a list of all newly-open
