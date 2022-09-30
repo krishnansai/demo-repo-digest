@@ -4,6 +4,16 @@ generate daily digests of repository activity
 
 ### Synopsis
 
+## Run steps
+
+sudo apt-get install git
+
+git clone https://github.com/krishnansai/demo-repo-digest/
+
+cd demo-repo-digest
+
+./build.sh
+
 
 
 Generate an HTML digest of repository activity (default stylesheet
